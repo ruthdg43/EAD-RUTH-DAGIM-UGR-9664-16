@@ -1,5 +1,5 @@
-LAB 1 : JAVA MAVEN STARTER PROJECT
-# JDBC Connection Project
+
+# LAB 1 : JAVA MAVEN STARTER PROJECT
 
 ## About
 
